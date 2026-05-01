@@ -33,7 +33,7 @@ for (const folder of folders) {
 
 console.log(`Loaded ${client.commands.size} commands`);
 
-client.once("ready", () => {
+client.once('clientReady', () => {
     console.log(`Logged in as ${client.user.tag}`);
     loadEconomy(client);
     console.log("Economy loaded");
