@@ -3,6 +3,7 @@ require("dotenv").config();
 
 const fs = require("fs");
 const path = require("path");
+const BOT_STATUS = 'dnd';
 
 const { loadEconomy } = require("./utils/economy");
 const handleInteraction = require("./handlers/interactionHandler");
