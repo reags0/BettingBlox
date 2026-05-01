@@ -1,0 +1,58 @@
+{
+  "1352452277666975789": {
+    "currencies": {
+      "dollars": 1e+24,
+      "robux": 2000
+    },
+    "wagered": 1051621900,
+    "profit": -1030718000
+  },
+  "1467927710402613312": {
+    "currencies": {
+      "dollars": 0,
+      "robux": 0
+    },
+    "wagered": 1000,
+    "profit": -1000
+  },
+  "1499523893617102988": {
+    "currencies": {
+      "dollars": 0,
+      "robux": 0
+    },
+    "wagered": 0,
+    "profit": 0
+  },
+  "1484058067376148491": {
+    "currencies": {
+      "dollars": 10000,
+      "robux": 10000
+    },
+    "wagered": 0,
+    "profit": 0
+  },
+  "1446192751984115866": {
+    "currencies": {
+      "dollars": 21100000,
+      "robux": 0
+    },
+    "wagered": 63000000,
+    "profit": 11100000
+  },
+  "1107473835600642049": {
+    "currencies": {
+      "dollars": 0,
+      "robux": 0
+    },
+    "wagered": 84600000,
+    "profit": -20000000
+  },
+  "1399656841784594444": {
+    "currencies": {
+      "dollars": 1000,
+      "robux": 0
+    },
+    "wagered": 0,
+    "profit": 0
+  }
+}
